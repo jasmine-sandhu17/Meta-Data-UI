@@ -1,0 +1,14 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.dom.json",
+  "include": ["Meta-Data-UI/env.d.ts", "Meta-Data-UI/src/**/*", "Meta-Data-UI/src/**/*.vue"],
+  "exclude": ["Meta-Data-UI/src/**/__tests__/*"],
+  "compilerOptions": {
+    "composite": true,
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
+
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["Meta-Data-UI/src/*"]
+    }
+  }
+}

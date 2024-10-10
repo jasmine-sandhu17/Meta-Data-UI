@@ -1,0 +1,28 @@
+{
+    "title": "Mock 2",
+    "components": [
+      {
+        "name": "header",
+        "data": {
+          "title": "Welcome to Mock 2"
+        }
+      },
+      {
+        "name": "footer",
+        "data": {
+          "title": "Welcome to Mock 2"
+        }
+      },
+      {
+        "name": "card",
+        "data": {
+          "fullName": "Jude Ronny",
+          "src": "https://picsum.photos/512/126?random",
+          "alt": "Placeholder Image",
+          "caption": "Card Mock 2",
+          "body" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus! Eaque cupiditate minima, at placeat totam, magni doloremque veniam neque porro libero rerum unde voluptatem!"  
+        }
+      }
+    ]
+  }
+  

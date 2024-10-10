@@ -1,0 +1,44 @@
+{
+    "title": "Mock 1",
+    "components": [
+      {
+        "name": "header",
+        "data": {
+          "title": "Welcome to Mock 1"
+        }
+      },
+      {
+        "name": "card",
+        "data": {
+          "profilePic": "https://randomuser.me/api/portraits/women/10.jpg",
+          "src": "https://picsum.photos/512/128?random",
+          "fullName": "Maria Fedd",
+          "alt": "Placeholder Image",
+          "caption": "Card Mock 1",
+          "body" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus! Eaque cupiditate minima, at placeat totam, magni doloremque veniam neque porro libero rerum unde voluptatem!"  
+        }
+      },
+      {
+        "name": "card",
+        "data": {
+          "fullName": "Janne Rude",
+          "profilePic": "https://randomuser.me/api/portraits/women/17.jpg",
+          "src": "https://picsum.photos/512/125?random",
+          "alt": "Placeholder Image",
+          "caption": "Card Mock 1",
+          "body" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus! Eaque cupiditate minima, at placeat totam, magni doloremque veniam neque porro libero rerum unde voluptatem!"  
+        }
+      },
+      {
+        "name": "card",
+        "data": {
+          "fullName": "Jude Ronny",
+          "src": "https://picsum.photos/512/126?random",
+          "alt": "Placeholder Image",
+          "caption": "Card Mock 1",
+          "body" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus! Eaque cupiditate minima, at placeat totam, magni doloremque veniam neque porro libero rerum unde voluptatem!"  
+        }
+      }
+    ]
+  }
+  
